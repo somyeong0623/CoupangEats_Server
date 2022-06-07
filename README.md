@@ -133,13 +133,15 @@
  - SMS 휴대폰인증 API 구현
  - Ad 테이블에 광고 url 칼럼 추가
  - 공지사항 조회 API 구현
- - 즐겨찾기 조회 API 필터 적용
 
  > ## 2022.6.2(목) - 13일차
  - 로그아웃 API 구현 및 validation 적용
  - 자동로그인 API 구현 시도
  - 회원 설정정보 변경 API
  - 데이터 및 명세서 정리
+ - 최종 API 명세서
+    - https://docs.google.com/spreadsheets/d/12NbyQjtQOgHWWXliXaRoaPF-h8EOUAruAxuXhAhKCbo/edit?usp=sharing
  - 최종 ERD
   <img width="1410" alt="image" src="https://user-images.githubusercontent.com/69009355/171689201-a3b1d9c3-e1d4-4478-883b-0147083753a1.png">
+
 
