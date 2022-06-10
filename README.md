@@ -2,8 +2,7 @@
 > 2주동안 클라이언트(Android) 1명, 백엔드(Spring boot) 2명이 진행한 쿠팡이츠 앱 클론코딩 프로젝트 입니다. 저는 백엔드를 담당하였습니다.
 > 
 > 진행 기간 : 2022.5.21~2022.6.2
-
-본 템플릿의 저작권은 (주)소프트스퀘어드에 있습니다. 상업적 용도의 사용을 금합니다
+</br>
 
 
 ## 🔫 Skills
@@ -13,15 +12,27 @@
 - AWS
   - EC2(ubuntu)
   - RDS
-- 문자 인증 (coolSMS)
-- Kakao Login
+- ETC
+  - 문자 인증 (coolSMS)
+  - Kakao Login  
+ </br>
+ 
 
-## ERD 설계
+## ✏️ ERD 설계
 <img width="749" alt="image" src="https://user-images.githubusercontent.com/69009355/173038067-cb6e7468-8f7d-46e1-923a-37e12e6210b3.png">
+ </br>
+ 
+## 📁 명세서
+https://docs.google.com/spreadsheets/d/12NbyQjtQOgHWWXliXaRoaPF-h8EOUAruAxuXhAhKCbo/edit?usp=sharing
+</br>
+</br>
 
-## 서비스 핵심 기능 및 담당 부분
+## 🌵 개발 우선순위 및 담당 부분
+기획 단계에서 다음과 같이 우선순위를 정하였고, 개발하면서 놓친 api가 있으면 추가하여 순위를 조절하면서 진행하였습니다. 저는 회원 관련 api, 주소 관련 api, 카테고리 및 검색 관련 api, 즐겨찾기 관련 api를 담당하였습니다.
+<img width="660" alt="image" src="https://user-images.githubusercontent.com/69009355/173106314-819940d3-7350-4db8-a1cd-2e31d45022fc.png">
 
 
+</br>
 
 
 ## 👩🏻‍💻 개발 일지
@@ -151,7 +162,7 @@
  - 검색어에 따른 카테고리 상세 조회 API 구현
  - 카테고리 상세화면 조회 API 구현
  - 홈화면, 마이이츠 화면에 광고 배너를 담을 Ad table 추가
- - 카카오 로그인 구현
+ - 카카오 로그인 (Oauth)
 
  > ## 2022.6.1(수) - 12일차
  - Question, Notice 테이블 추가
@@ -171,5 +182,11 @@
 
 </div>
 </details>
+</br>
 
 ## 🤩 리팩토링 계획
+- 기본 CRUD의 반복, sql코드의 반복을 보완하기 위해 JPA를 이용하여 리팩토링
+- S3를 통한 이미지 업로드
+- interceptor 적용
+- 필터 
+- 프론트 분과 협업하여 앱 완성도 개선
