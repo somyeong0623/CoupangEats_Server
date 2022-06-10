@@ -1,8 +1,27 @@
-# CoupangEats_Server
+#  📌 프로젝트 소개
+> 2주동안 클라이언트(Android) 1명, 백엔드(Spring boot) 2명이 진행한 쿠팡이츠 앱 클론코딩 프로젝트 입니다. 저는 백엔드를 담당하였습니다.
+> 
+> 진행 기간 : 2022.5.21~2022.6.2
+
 
 본 템플릿의 저작권은 (주)소프트스퀘어드에 있습니다. 상업적 용도의 사용을 금합니다
 
-## 개발일지 (2022.5.21~2022.6.2)
+
+## 🔫 Skills
+
+
+
+## ERD 설계
+<img width="1410" alt="image" src="https://user-images.githubusercontent.com/69009355/171689201-a3b1d9c3-e1d4-4478-883b-0147083753a1.png">
+
+
+
+
+## 👩🏻‍💻 개발 일지
+<details>
+<summary>개발일지 (2022.5.21~2022.6.2)</summary>
+<div markdown="1">
+  
 > ## 2022.5.21(토) - 1일차
 - 기획서 작성
 - ERD 작성 (70% 완료)
@@ -141,7 +160,7 @@
  - 데이터 및 명세서 정리
  - 최종 API 명세서
     - https://docs.google.com/spreadsheets/d/12NbyQjtQOgHWWXliXaRoaPF-h8EOUAruAxuXhAhKCbo/edit?usp=sharing
- - 최종 ERD
-  <img width="1410" alt="image" src="https://user-images.githubusercontent.com/69009355/171689201-a3b1d9c3-e1d4-4478-883b-0147083753a1.png">
+ 
 
-
+</div>
+</details>
