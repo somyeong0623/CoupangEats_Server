@@ -3,16 +3,23 @@
 > 
 > 진행 기간 : 2022.5.21~2022.6.2
 
-
 본 템플릿의 저작권은 (주)소프트스퀘어드에 있습니다. 상업적 용도의 사용을 금합니다
 
 
 ## 🔫 Skills
-
-
+- Nginx
+- SpringBoot, Spring Security(JWT)
+- MySQL
+- AWS
+  - EC2(ubuntu)
+  - RDS
+- 문자 인증 (coolSMS)
+- Kakao Login
 
 ## ERD 설계
-<img width="1410" alt="image" src="https://user-images.githubusercontent.com/69009355/171689201-a3b1d9c3-e1d4-4478-883b-0147083753a1.png">
+<img width="749" alt="image" src="https://user-images.githubusercontent.com/69009355/173038067-cb6e7468-8f7d-46e1-923a-37e12e6210b3.png">
+
+## 서비스 핵심 기능 및 담당 부분
 
 
 
@@ -164,3 +171,5 @@
 
 </div>
 </details>
+
+## 🤩 리팩토링 계획
