@@ -23,7 +23,7 @@
  </br>
  
 ## 📁 명세서
-https://docs.google.com/spreadsheets/d/12NbyQjtQOgHWWXliXaRoaPF-h8EOUAruAxuXhAhKCbo/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/12NbyQjtQOgHWWXliXaRoaPF-h8EOUAruAxuXhAhKCbo/edit#gid=1732779101
 </br>
 </br>
 
