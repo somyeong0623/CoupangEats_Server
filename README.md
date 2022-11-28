@@ -92,8 +92,6 @@ https://docs.google.com/spreadsheets/d/12NbyQjtQOgHWWXliXaRoaPF-h8EOUAruAxuXhAhK
 - 주소 관련 dummay data 추가
 - 즐겨찾기 생성, 삭제 API 구현
 - 클라이언트 분과 실시간 소통하면서 에러 수정 중.
-<img width="642" alt="image" src="https://user-images.githubusercontent.com/69009355/170221339-92b3928f-ace9-43b2-99bf-790bf90de78e.png">
-
 
 > ## 2022.5.26(목) - 6일차
 - 즐겨찾기 생성, 삭제 API validation 수정
